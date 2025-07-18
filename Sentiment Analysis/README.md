@@ -1,4 +1,4 @@
-# 📊 Sentiment Analysis with NLP | ELiteTech Internship
+# 📊 Sentiment Analysis with NLP 
 
 This notebook performs **Sentiment Analysis** on customer reviews using **TF-IDF Vectorization** and **Logistic Regression**.
 
